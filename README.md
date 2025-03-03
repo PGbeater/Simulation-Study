@@ -3,6 +3,6 @@ A simulation study about the variable selection criteria for propensity score me
 
 1. Read and load the Functions.R
 
-2. Run the setups
+2. Run the setups 
 
-3. Use the results from the setups to create the plot using the code in PLot fold.
+3. Use the results from the setups to create the plot using the code in PLot fold (start from the Bias_boxplot.R which has some explanation, the rest have similar logic).
